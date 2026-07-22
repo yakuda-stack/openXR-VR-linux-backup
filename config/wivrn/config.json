@@ -1,0 +1,16 @@
+{
+    "debug-gui": false,
+    "hid-forwarding": false,
+    "openvr-compat-path": "/opt/xrizer",
+    "use-steamvr-lh": false,
+    "hand_tracking": false,
+    "refresh_rate": 90,
+    "scale": 1.0,
+    "bitrate": 200000000,
+    "encoders": [
+        {
+            "encoder": "vulkan",
+            "codec": "h265"
+        }
+    ]
+}

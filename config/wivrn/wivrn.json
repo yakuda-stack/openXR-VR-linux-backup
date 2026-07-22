@@ -1,0 +1,13 @@
+{
+    "hand_tracking": false,
+    "refresh_rate": 0,
+    "apps": [
+        "wayvr"
+    ],
+    "openvr_runtime": "default",
+    "scale": 1.0,
+    "foveated_factor": 0.5,
+    "encoder": "auto",
+    "codec": "auto",
+    "bitrate": 100
+}
